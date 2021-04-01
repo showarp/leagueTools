@@ -1,0 +1,17 @@
+{
+  "name": "lxl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^11.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "package": "electron-packager . demo2 --platform=win32 --arch=x64 --electron-version=11.2.0"
+}
